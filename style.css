@@ -1,0 +1,10 @@
+  body{
+text-align: center;
+background-color:cadetblue;
+  }
+#family_member_image{
+
+    text-align: center;
+    height:fit-content;
+    width:fit-content;
+}
